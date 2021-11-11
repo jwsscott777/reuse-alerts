@@ -6,6 +6,7 @@
   "files": [
     "index.js"
   ],
+  "repository": "jwsscott777/reuse-alerts",
   "scripts": {
     "test": "node test.js",
     "format": "prettier --write \"./**/*.{js,json}\""
