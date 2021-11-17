@@ -4,7 +4,7 @@
 
 ## Usage
 
->const alert = require('cli-alert')
+>const alert = require('reuse-alerts')
 
 // You can choose between SUCCESS, INFO, WARNING, ERROR
 
